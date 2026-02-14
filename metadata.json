@@ -1,0 +1,5 @@
+{
+  "name": "SkyBound Flight Sim 2",
+  "description": "A 3D flight simulator featuring realistic controls including landing gear, flaps, throttle, and control surfaces. Built with React Three Fiber.",
+  "requestFramePermissions": []
+}
